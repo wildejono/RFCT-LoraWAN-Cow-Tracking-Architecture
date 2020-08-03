@@ -23,8 +23,8 @@ PORT = 1700
 NTP = "au.pool.ntp.org"
 NTP_PERIOD_S = 3600
 
-WIFI_SSID = 'WildeHomeNetwork'
-WIFI_PASS = 'WildePulis101!'
+WIFI_SSID = 'IOT-Network'
+WIFI_PASS = 'cedarlime2671123'
 
 # for AU915
 LORA_FREQUENCY = 916800000
