@@ -2,7 +2,7 @@
 
 ## Configuration variables
 MAIN_LOOP_SLEEP = 10
-NODE_DEBUG_MODE = 0 # 1=comments | 0=clean
+NODE_DEBUG_MODE = 1 # 1=comments | 0=clean
 
 # import lines for BME280 sensor
 from machine import I2C
